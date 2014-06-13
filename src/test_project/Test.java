@@ -5,5 +5,7 @@ package test_project;
  *
  */
 public class Test {
-
+	public void forked() {
+		// master_forkedで追加
+	}
 }

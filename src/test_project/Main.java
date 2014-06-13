@@ -21,6 +21,6 @@ public class Main {
 
 
 	private static void forked() {
-
+		System.out.println("あああ");
 	}
 }

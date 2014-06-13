@@ -16,7 +16,11 @@ public class Main {
 	public static void a() {
 		// issueとcommit関連付け
 		System.out.println("issueとcommit関連付け");
+		forked();
 	}
 
 
+	private static void forked() {
+
+	}
 }
